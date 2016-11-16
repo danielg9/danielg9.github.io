@@ -2072,7 +2072,6 @@
 
 		.icon.major {
 			text-align: center;
-			cursor: default;
 			background-color: #37c0fb;
 			background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
 			background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
